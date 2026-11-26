@@ -72,3 +72,4 @@ From `backend`, run `.\.venv\Scripts\python -m pytest -q`. From `frontend`, run 
 
 [Deployment instructions](docs/deployment.md) · [Current verification results](TASK_STATUS.md)
 # Trippy
+# trippppy
